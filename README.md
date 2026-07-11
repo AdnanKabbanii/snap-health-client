@@ -63,6 +63,8 @@ flutter build apk --release --dart-define-from-file=.env.dart-defines
 flutter build ios --release --dart-define-from-file=.env.dart-defines
 ```
 
+Project history: Originally developed as a private personal project and released publicly in July 2026 after removing private configuration and sensitive data. The public repository uses a cleaned, squashed history.
+
 ## License
 
 MIT License. See LICENSE.
