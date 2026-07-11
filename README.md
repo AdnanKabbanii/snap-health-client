@@ -1,6 +1,6 @@
 # SnapHealth App
 
-Flutter mobile app for iOS and Android.
+Flutter mobile app for iOS and Android. Open source under the MIT License.
 
 ## Setup
 
@@ -62,3 +62,7 @@ Release builds require API_URL over HTTPS.
 flutter build apk --release --dart-define-from-file=.env.dart-defines
 flutter build ios --release --dart-define-from-file=.env.dart-defines
 ```
+
+## License
+
+MIT License. See LICENSE.
